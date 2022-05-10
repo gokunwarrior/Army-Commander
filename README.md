@@ -1,2 +1,3 @@
 # Army-Commander
-demo
+#demo game
+
